@@ -1,0 +1,2 @@
+include ':thread', ':data_thread', ':looper', ':asynctask', ':loader', ':service'
+rootProject.name='lablesson4'
